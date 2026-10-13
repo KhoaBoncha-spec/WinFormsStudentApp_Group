@@ -16,5 +16,10 @@ namespace WindowsFormsApp_Lab05_Ex03
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
